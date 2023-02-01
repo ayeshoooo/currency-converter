@@ -1,0 +1,21 @@
+{
+  "name": "bestcurrency-converter1",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "bestcurrency-converter1": "^1.1.1",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1"
+  }
+}
